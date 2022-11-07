@@ -1,0 +1,3 @@
+[submodule "Dummy-Repo"]
+	path = Dummy-Repo
+	url = https://github.com/JojoDevel/Dummy-Repo.git
