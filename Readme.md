@@ -29,7 +29,7 @@ Traceback (most recent call last):
 FileNotFoundError: [Errno 2] No such file or directory: 'Dummy-Repo/README.md'
 ```
 
-## 2. Scenario: Execution iwth fixed mlflow version
+## 2. Scenario: Execution with fixed mlflow version
 
 We setup a mlflow environment in conda with the fixed mlflow version
 ```bash
